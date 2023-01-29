@@ -1,0 +1,12 @@
+.title {
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 48px;
+    line-height: 58px;
+    color: rgba(255, 255, 255, 0.8);
+    margin: 0 84px 55px;
+    border-bottom: 2px solid rgba(255, 255, 255, 0.8);
+    width: 133px;
+    padding-bottom: 16px;
+}

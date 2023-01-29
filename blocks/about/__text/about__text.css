@@ -1,0 +1,21 @@
+.about__text {
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 133%;
+    color: #FFFFFF;
+    max-width: 412px;
+    margin: 0 0 26px;
+}
+
+.about__text:last-child {
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 170.18%;
+    text-align: right;
+    color: #FFFFFF;
+    max-width: 449px;
+}

@@ -1,0 +1,9 @@
+.profile {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    height: 791px;
+    background-image: url(../../images/big_picture.png);
+    margin-bottom: 118px;
+    background-size: cover;
+}

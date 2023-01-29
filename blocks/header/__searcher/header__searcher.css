@@ -1,0 +1,12 @@
+.header__searcher {
+    display: flex;
+    margin: 0 84px 0 0;
+    color: rgba(255, 255, 255, 0.7);
+    width: 253px;
+    height: 41px;
+    background: rgba(84, 82, 82, 0.04);
+    border-width: 2px 1px 1px 1px;
+    border-style: solid;
+    border-color: #17659E;
+    border-radius: 12px;
+}

@@ -1,0 +1,15 @@
+.footer__column {
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    margin-left: 0;
+    padding-left: 0;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 18px;
+    color: #FFFFFF;
+    max-height: 85px;
+    flex-wrap: wrap;
+}

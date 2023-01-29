@@ -1,0 +1,11 @@
+.about__img {
+    margin: 0 0 20px;
+    width: 384px;
+    height: 394px;
+    
+}
+
+.about__img:last-child {
+    width: 407px;
+    height: 482px;
+}

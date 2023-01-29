@@ -1,0 +1,15 @@
+.production__link {
+    font-family: 'Ubuntu';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 140%;
+    color: #104998;
+    transition: 0.3s;
+    margin: auto 40px 44px auto;
+}
+
+.production__link:hover {
+    cursor: pointer;
+    opacity: 0.7;
+}

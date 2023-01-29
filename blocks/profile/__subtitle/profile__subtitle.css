@@ -1,0 +1,10 @@
+.profile__subtitle {
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 137%;
+    color: #FFFFFF;
+    margin: 24px auto 77px 32px;
+    max-width: 450px;
+}

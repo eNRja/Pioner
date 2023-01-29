@@ -1,0 +1,19 @@
+.geography__link {
+    border: 1px solid rgba(252, 253, 254, 0);
+    font-family: 'Ubuntu';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 140%;
+    color: rgba(252, 253, 254, 0.78);
+    margin: auto 84px 20px auto;
+    padding: 2px;
+    transition: 0.3s;
+}
+
+.geography__link:hover {
+    border: 1px solid #17659E;
+    border-radius: 12px;
+    cursor: pointer;
+    color: rgba(252, 253, 254, 1);
+}

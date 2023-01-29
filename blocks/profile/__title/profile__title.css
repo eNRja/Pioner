@@ -1,0 +1,11 @@
+.profile__title {
+    font-family: 'Oswald';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 64px;
+    line-height: 107px;
+    text-transform: uppercase;
+    color: #FFFFFF;
+    margin: 173px auto 0 32px;
+    max-width: 750px;
+}

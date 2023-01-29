@@ -1,0 +1,15 @@
+.production__item {
+    min-width: 366px;
+    height: 358px;
+    list-style-type: none;
+    background: rgba(255, 255, 255, 0.9);
+    border: 1px solid #2D67B8;
+    border-radius: 30px;
+    margin: 50px  40px 0 50px;
+    display: flex;
+    flex-direction: column;
+}
+
+.production__item:last-child {
+    margin-right: 0;
+}

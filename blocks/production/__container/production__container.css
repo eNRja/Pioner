@@ -1,0 +1,14 @@
+.production__container {
+    display: flex;
+    margin-left: 0;
+    padding-left: 0;
+    overflow-x: scroll; 
+    -ms-overflow-style: none;  /* IE и Edge */
+    scrollbar-width: none;  /* Firefox */
+    margin-bottom: 0;
+}
+
+/* Скрываем scrollbar для Chrome, Safari и Opera */
+.production__container::-webkit-scrollbar {
+    display: none;
+  }

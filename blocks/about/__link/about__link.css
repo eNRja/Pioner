@@ -1,0 +1,14 @@
+.about__link {
+    position: absolute;
+    bottom: 14px;
+    right: 78px;
+    background-image: url(../../../images/Arrow.svg);
+    width: 67px;
+    height: 24px;
+    transition: 0.3s;
+}
+
+.about__link:hover {
+    cursor: pointer;
+    opacity: 0.7;
+}

@@ -1,0 +1,10 @@
+.news__text {
+    font-family: 'Ubuntu';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 135%;
+    color: #FFFFFF;
+    margin-top: -90px;
+    margin-left: 15px;
+}
